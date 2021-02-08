@@ -38,7 +38,7 @@ Module/Library/function/icons used in this project:
  * Download font-awesome's latest librabry https://fontawesome.com/
  * Replace it into /dist as /dist/font-awesome
  * Remove the comment of font-awesome link from index.html
- * Also you can delete the cdjns linkup from index,html
+ * Also you can delete the cdnjs linkup from index.html
  
  Why .collapse:
 --------------------
