@@ -13,14 +13,13 @@
 
 Module/Library/function/icons used in this project:
 ------------------------------------------------------
-
- * Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ 
+ * cdjns of font-awesome https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
  * jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license
  * HTML-5
  * Custom css
- * Custom json
- * & some icon.I don't know if someone have enough time to claim that's ownership[XD].
+ * Custom javascript
+ * & some icon.I don't know if someone have enough time to claim that's ownership [XD] .
  
 
   Important information of this project:
@@ -29,10 +28,18 @@ Module/Library/function/icons used in this project:
 * Custom css file path -> /dist/css/menu-style.css
 * Custom js file path -> /dist/js/menu.js
 * Path of jquery -> /dist/js/jquery.min.js
-* Path of fontawesome -> /dist/font-awesome/
+* Path of font-awesome -> /dist/font-awesome/ [We remove it for huge size.You can download it by below's instruction]
 * Path of icon and image -> /dist/img/
 
 
+ Dowload font-awesome:
+ ---------------------
+ 
+ * Download font-awesome's latest librabry https://fontawesome.com/
+ * Replace it into /dist as /dist/font-awesome
+ * Remove the comment of font-awesome link from index.html
+ * Also you can delete the cdjns linkup from index,html
+ 
  Why .collapse:
 --------------------
 
@@ -74,4 +81,5 @@ If you want to change background source of .main-container after collapse then a
 
     transition: 0.3s;
 
-#That's all.(^_^)
+
+That's all.Enjoy Our code by your own way.(^_^)
