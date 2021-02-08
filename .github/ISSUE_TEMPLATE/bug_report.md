@@ -2,8 +2,9 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question, wontfix
+assignees: BlackX-732
 
 ---
 

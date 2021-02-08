@@ -2,8 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question, wontfix
+assignees: BlackX-732
 
 ---
 
