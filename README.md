@@ -33,31 +33,31 @@ Module/Library/function/icons used in this project:
 * Path of icon and image -> /dist/img/
 
 
-   Why .collapse:
------------------------
+ Why .collapse:
+--------------------
 
 * we used .collapse in -> /dist/css/menu-style.css if though it doesn't exist in -> /index.html
 * .collapse is exist in -> /dist/js/menu.js
 * We created this class by this script/selector -> $(".wrapper").toggleClass("collapse");
 
 
-  Change the Header Text:
-----------------------------------
+ Change the Header Text:
+------------------------
 
 * Find out class="title" in /index.html
 * Then change the text of class="title-hide" && class="sec-span"
 
 
-   Change the Sidebar icon and username:
---------------------------------------------
+ Change the Sidebar icon and username:
+--------------------------------------
 
 * Find out class="profile" in /index.html
 * Then change <img src="dist/img/avatar.png" alt=""><p>BlackX-732</p>
 
 
 
-    How to classify different background source before collapse and after collapse:
----------------------------------------------------------------------------------
+ How to classify different background source before collapse and after collapse:
+--------------------------------------------------------------------------------
 
 If you want to change background source of .main-container after collapse then ad below's code into .collapse .main-container
 
@@ -72,6 +72,6 @@ If you want to change background source of .main-container after collapse then a
 
  For little more smoothness add this to previous class
 
-   transition: 0.3s;
+    transition: 0.3s;
 
 #That's all.(^_^)
